@@ -1,0 +1,66 @@
+Privacy Policy
+
+Last updated: December 14, 2025
+
+This Privacy Policy describes how MeloBus ("we," "our," or "us") collects, uses, and shares information when you use our mobile application (the "App"). MeloBus is designed to function as a location-based alarm for public transportation commuters.
+
+By using the App, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+
+1.1. Location Data (Foreground and Background)
+MeloBus requires access to your device's location to function. We collect and process:
+
+- Precise Location: To accurately determine when you have reached your destination stop.
+- Background Location: We access your location even when the App is closed or not in use (background).
+- Purpose: This feature is essential to trigger the alarm and wake you up if you fall asleep during your bus or train ride, ensuring you do not miss your stop even if your screen is off to save battery.
+- Data Handling: Location data is processed locally on your device to calculate the distance to your target. We do not operate any backend servers, and we do not transmit or store your location history outside of your device.
+
+1.2. Locally Stored Data
+The App stores certain preferences and data locally on your device storage to improve your user experience. This includes:
+
+- Alarm Settings: Sound preferences, vibration status, volume levels, and custom alarm tone URIs.
+- Trip History: Records of completed trips.
+- Favorites: Locations or routes you have marked as favorites.
+
+This data resides solely on your device and is removed if you uninstall the App or clear the App's data.
+
+2. Third-Party Service Providers
+
+We use third-party services that may collect information used to identify you or your device.
+
+2.1. Mapbox (Maps and Location Services)
+We use the Mapbox Android SDK to provide map visualization and location services.
+
+- Data Collection by Mapbox: Mapbox acts as an independent data controller. When you use the map or location features, Mapbox collects technical information such as IP address, device information, location data (latitude/longitude), and telemetry to improve their maps.
+- Mapbox Privacy Policy: For more details on how Mapbox handles your data, please review the Mapbox Product Privacy Policy: [https://www.mapbox.com/legal/privacy#product-privacy-policy](https://www.mapbox.com/legal/privacy#product-privacy-policy)
+
+2.2. Google AdMob (Advertising)
+We use Google AdMob to display advertisements within the App.
+
+- Data Collection by AdMob: AdMob may use device identifiers (such as the Android Advertising ID), cookies, and other technologies to serve personalized or non-personalized ads and to analyze ad performance.
+- Google Privacy Policy: You can learn more about how Google uses data in their advertising products here: Google Privacy & Terms: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+
+3. Data Retention and Deletion
+
+- Local Data: Since we do not operate a backend server for user accounts, all user-generated data (history, favorites) is stored locally on your device. You can delete this data at any time by clearing the App's storage in your Android settings or by uninstalling the App.
+- Third-Party Data: Data collected by Mapbox or AdMob is subject to their respective retention policies. Mapbox, for example, retains certain technical data like IP addresses for a limited period (e.g., 30 days) for security and operational purposes.
+
+4. Children’s Privacy
+
+Our App is intended for general audiences (users aged 18 and over). We do not knowingly collect personally identifiable information from children under 13. Since the App does not allow account creation or data submission, we do not possess user records. If a parent or guardian becomes aware that a child has provided us with personal information (e.g., via email support), please contact us so that we can delete such communications.
+
+5. Security
+
+We value your trust. While we do not store your data on external servers, we rely on the security of your mobile device to protect the data stored locally. However, remember that no method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+7. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+Email: melobusoficial@gmail.com
+Developer Email: rubenjesusrobadin11@gmail.com
